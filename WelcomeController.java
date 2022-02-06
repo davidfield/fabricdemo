@@ -1,4 +1,4 @@
-package com.example.fiber.demo;
+package com.example.fabric.demo;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package com.example.fiber.demo;
+package com.example.fabric.demo;
 
-import static com.example.fiber.demo.CellTypes.*;
+import static com.example.fabric.demo.CellTypes.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;
